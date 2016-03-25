@@ -1,0 +1,43 @@
+h1
+{
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+}
+
+#player{
+  width: 100px;
+  height: 100px;
+}
+
+#player {
+  background: url("https://deblinux.files.wordpress.com/2014/08/pacman.gif?w=665");
+}
+
+#enemy {
+  width: 130px;
+  height: 130px;
+  background: url("http://orig09.deviantart.net/7540/f/2013/053/b/a/1yumyum2_by_camdencc-d5vujeu.gif");
+}
+
+#enemy1 {
+  width: 130px;
+  height: 130px;
+  background: url("http://orig08.deviantart.net/977f/f/2013/021/0/2/1clydeghost_by_camdencc-d5sab7r.gif");
+}
+
+#enemy2 {
+  width: 130px;
+  height: 130px;
+  background: url("http://orig05.deviantart.net/f745/f/2013/021/d/3/1inkyghost_by_camdencc-d5sab38.gif");
+}
+
+#tablero{
+  margin-top: 0px;
+}
+
+body{
+  background-color: SkyBlue;
+}
+button{
+  margin: auto;
+}
